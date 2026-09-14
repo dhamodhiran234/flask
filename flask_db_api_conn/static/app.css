@@ -1,0 +1,26 @@
+.con{
+    background-color: blue;
+    color: white;
+    width: 100%;
+    max-width: 1000px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+button{
+    width: 60%;
+    padding: 10px;
+    border-radius: 20px;
+}
+input{
+    width: 70%;
+    height: 37px;
+    margin: 20px;
+    border-radius: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-size: x-large;
+}
